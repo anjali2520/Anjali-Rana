@@ -1,14 +1,14 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
-<h1 align="center">I'm Huzefa Momin, a Web Developer 👨‍💻 </h1>
+<h1 align="center">I'm Anjali Rana, a Sr. Analyst 👨‍💻 </h1>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Web Development**
-- 💬 Ask me about **anything related to Web Development and related technologies**
-- 📫 Reach out to me **huzefamomin45@gmail.com**
-- ⚡ Fun fact: **Coding is the passport to a boundless digital journey! 💻😄**
+- 🌱 I’m currently learning **Power Bi**
+- 👯 I’m looking to collaborate on **Data Analyst**
+- 💬 Ask me about **anything related to Data Manipulation**
+- 📫 Reach out to me **anjali.ar9996@gmail.com**
+- ⚡ Fun fact: Data is like the DNA of the digital world, and data analysts are the geneticists decoding its secrets! 💻😄**
 
 </br>
 
